@@ -30,7 +30,7 @@ sleep-quality-predictor/
 📦 Setup Instructions
 1. Clone the repo:
    
-   git clone https://github.com/yourusername/sleep-quality-predictor.git
+   git clone https://github.com/satvika1609/sleep-quality-predictor.git
    cd sleep-quality-predictor
 
 2. Install dependencies:
