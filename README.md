@@ -1,4 +1,4 @@
-Sleep Quality Predictor
+# Sleep Quality Predictor
 
 A Flask-based web application that predicts a person's sleep quality score based on their lifestyle data using a machine learning regression model.
 
