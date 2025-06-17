@@ -2,32 +2,21 @@
 
 A Flask-based web application that predicts a person's sleep quality score based on their lifestyle data using a machine learning regression model.
 
-🚀 Features
+## 🚀 Features
 - Upload lifestyle data via CSV file
 - Predicts sleep quality score (0–10 scale)
 - Styled frontend using HTML and CSS
 - Built with Python, Flask, and scikit-learn
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python
 - Flask
 - Scikit-learn
 - XGBoost
 - HTML + CSS
 
-📂 Project Structure
-sleep-quality-predictor/
-├── app.py
-├── sleep\_model.pkl
-├── sample\_input\_23\_columns.csv
-├── requirements.txt
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-└── README.md
 
-📦 Setup Instructions
+## 📦 Setup Instructions
 1. Clone the repo:
    
    git clone https://github.com/satvika1609/sleep-quality-predictor.git
